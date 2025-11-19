@@ -1,16 +1,35 @@
 # summarizer-AI
 
-**summarizer-AI** is a lightweight AI-powered tool that takes an article's **title** and **abstract** as input, then generates a **condensed, simplified summary** in **one sentence**.  
-The summary length is constrained to **1–35 words**, making it concise yet informative.
+**summarizer-AI** is a lightweight AI chatbot designed to generate **a concise summary** of any scientific or technical article.  
+Just give it the **Title** and **Abstract** — it will return a **clear, single-sentence summary** between **1 and 35 words**.
 
-## 🔹 Features
-- **Minimal input**: only the article's title & abstract are required.
-- **Ultra-condensed summaries**: 1–35 words.
-- **AI-powered simplification** for non-technical readers.
-- Easy integration with other tools or workflows.
+---
 
-## 📦 Installation
-Clone the repository:
-```bash
-git clone https://github.com/Keshvarinps/summarizer-AI.git
-cd summarizer-AI
+## 🔗 Live Chatbot
+You can try summarizer-AI instantly here:  
+[Launch Chatbot](https://udify.app/chat/GrRJkRRwxioMUOlj)
+
+---
+
+## ✨ Features
+- 📝 **Ultra-compact summarization** for scientific articles.
+- 🎯 Summary length capped at **35 words**.
+- ⚡ Simple text-only interaction (no file upload needed).
+- 🌐 Runs directly in your browser via [Udify](https://udify.app/).
+
+---
+
+## 🚀 How to Use
+1. Open the live chatbot from [this link](https://udify.app/chat/GrRJkRRwxioMUOlj).
+2. Paste the **Title** and **Abstract** of your article.
+3. Receive a **succinct, ready-to-use summary**.
+
+---
+
+## 📂 Repository Structure
+```plaintext
+summarizer-AI/
+├── README.md       # Project documentation
+├── prompt.json     # (Optional) Example prompts for chatbot
+├── LICENSE         # License file (add your preferred license)
+└── ...
